@@ -6,8 +6,6 @@
   "scripts": {
     "start": "npx nodemon src/index.ts",
     "build": "npx tsc",
-    "lint": "eslint . --ext .ts",
-    "prettier": "prettier --config .prettierrc src/**/*.ts --write",
     "jasmine": "jasmine"
   },
   "author": "Kareem",
